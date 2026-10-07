@@ -28,6 +28,26 @@ In this paper, Weintrop examines the role of block-based programming in computin
 
 This paper is relevant to this project as it investigates the potential benefits and limitations of using a block-based language as an educational tool for inexperienced programmers. Weintrop's findings provide a justification for investigating whether a quantum block-based language would benefit similarly to the traditional block-based language.  
 
+## QScratch: introduction to quantum mechanics concepts through block-based programming
+
+**Author:** Daniel Escanez-Exposito, Marcos Rodriguez-Vega, Carlos Rosa-Remedios and Pino Caballero-Gil  
+**Year:** 2025  
+**Paper:** https://link.springer.com/article/10.1140/epjqt/s40507-025-00314-9
+
+### Summary 
+
+In this paper, the authors introduce an educational tool, QScratch, designed to teach the fundamentals of quantum mechanics through the use of a block-based programming environment. QScratch is an extension of Scratch and introduces new quantum blocks designed to represent superposition, entanglement and measurement. The aim of QScratch is to make complex quantum concepts easier to understand and learn by providing the user with an interactive visual environment rather than mathematical descriptions or definitions. The authors argue that using this traditional method of mathematical descriptions can make quantum concepts difficult to introduce to students, particularly those without a strong background in mathematics.
+
+The authors then evaluate QScratch through a pilot study involving 68 first-year chemical engineering university students. The students completed a pre-test to gauge their interest and experience in the topic, then received a short introduction to quantum computing and quantum mechanics, followed by practical exercises completed using QScratch. A post-test was then conducted to assess changes in students' knowledge and interest levels. The results suggested that QScratch had a positive impact on both the students' knowledge of and interest in quantum mechanics.
+
+### Relevance to this project
+
+This paper is relevant to this project as it provides a direct example of using block-based programming to make quantum concepts more accessible. The authors demonstrate that quantum concepts such as superposition can be represented using blocks in an intuitive manner. This provides a useful precedent for investigating whether a similar block-based approach can also be applied to quantum programming.
+
+Additionally, this paper is useful as it also demonstrates how a pilot study could be used for evaluating the effectiveness of a block-based environment. This is relevant to this project because the project will also be investigating whether the block-based approach actually improves accessibility via a potentially similar pilot study.
+
+However, there is an important distinction between QScratch and this project. QScratch primarily focuses on introducing fundamental quantum mechanics concepts such as entanglement, whereas this project focuses on the accessibility of quantum programming.
+
 ## Teaching Quantum Design Automation with Block-Based Programming
 
 **Author:** Damian Rovara, Robert Wille  
